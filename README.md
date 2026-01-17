@@ -1,42 +1,51 @@
-# 👋 Hi, I'm Abdul Basith
+<h1 align="center">Abdul Basith</h1>
 
-🚀 Software Engineer | Backend | System Design | Automation  
-💡 Love building scalable systems and solving complex problems.
-
----
-
-## 🧠 About Me
-- 🔭 Currently working on distributed systems & microservices
-- ⚙️ Strong in Node.js, TypeScript, MongoDB, Redis, Kafka
-- 🧩 Interested in system design, infra, debugging, optimization
-- 📚 Constant learner
+<p align="center">
+  <i>Turning complex systems into boring, predictable software.</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-- JavaScript / TypeScript
-- Python
-- SQL
+## ✦ About
 
-**Backend**
-- Node.js, Express, NestJS
-- MongoDB, PostgreSQL
-- Redis, Kafka
-
-**DevOps**
-- Docker, Linux, GitHub Actions
-
-**Frontend**
-- React, MUI, Tailwind
+- Building production-grade platforms using TypeScript, Node.js, and modern frontend stacks  
+- Strong focus on system boundaries, data flow, reliability, and performance  
+- Experience with real-time communication and event-driven architectures  
+- Comfortable owning releases, migrations, and infra decisions  
+- Constantly refining engineering practices and tooling
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## ✦ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,aws,gcp" />
+</p>
+
+### Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (add link if you want)
+## ✦ Find Me
+
+- email - abdulbasith7599@gmail.com
+- LinkedIn → [abdul basith](https://www.linkedin.com/in/abdul-basith-36a60231b/)
