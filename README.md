@@ -35,7 +35,7 @@
 
 ### Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,gcp" />
 </p>
 
 ### Messaging
