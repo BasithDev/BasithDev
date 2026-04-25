@@ -49,3 +49,4 @@
 
 - email - abdulbasith7599@gmail.com
 - LinkedIn → [abdul basith](https://www.linkedin.com/in/abdul-basith-36a60231b/)
+- Resume - [Abdul Basith](https://drive.google.com/file/d/1JCsdFz7mzQUBxZvvKeJfEroOOHuACZ2w/view?usp=drive_link)
